@@ -95,8 +95,8 @@ nav ul li a:hover {
 
 
 .photo img{
-    width: 400px;
-    height: auto;
+    width: 450px;
+    height: 300px;
     background-color: #ccc;
     border-radius: 0%;
     background-size: cover;
