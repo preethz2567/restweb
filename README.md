@@ -379,7 +379,7 @@ body {
 ## OUTPUT:
 
 Home page
-![alt text](bak1-1.png)
+![alt text](bak1.png)
 ![alt text](bak2.png)
 
 Menu list
