@@ -101,7 +101,10 @@ Homepage
 </div>
 </body>
 </html>
-<style>
+```
+Homepage - CSS
+```
+
 * {
     margin: 0;
     padding: 0;
@@ -374,7 +377,6 @@ body {
         font-size: 18px;
     }
 }
-</style>
 ```
 ## OUTPUT:
 
@@ -395,7 +397,7 @@ Contacts page
 ![alt text](bak8-2.png)
 
 Administration page
-![alt text](bak9.png)
+![alt text](bakk9.png)
 ![alt text](bak10.png)
 
 
